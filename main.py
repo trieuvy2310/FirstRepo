@@ -2,8 +2,6 @@
 from __future__ import division, print_function, unicode_literals
 import numpy as np
 import matplotlib.pyplot as plt
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
 def print_hi(name):
